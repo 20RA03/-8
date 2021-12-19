@@ -88,7 +88,7 @@ namespace ПР8
 
         private void Information_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Работу выполнил студент группы Ржексвкий Александр. ИСП-34", "О программе", MessageBoxButton.OK, MessageBoxImage.Information);
+            MessageBox.Show("Работу выполнил студент группы Ржексвкий Александр ИСП-34", "О программе", MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
         private void Exit_Click(object sender, RoutedEventArgs e)
